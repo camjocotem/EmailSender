@@ -1,0 +1,20 @@
+{
+  "name": "id-support",
+  "version": "1.0.0",
+  "description": "Just a page to automate some regular tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonny",
+  "license": "ISC",
+  "dependencies": {
+    "json-2-csv": "^2.1.0",
+    "lodash": "^4.17.4",
+    "node-env-file": "^0.1.8",
+    "nodemailer": "^3.1.5",
+    "request": "^2.81.0",
+    "request-promise": "^4.1.1",
+    "winston": "^2.3.1"
+  }
+}
